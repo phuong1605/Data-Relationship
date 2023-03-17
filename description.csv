@@ -1,0 +1,22 @@
+﻿"Đặc trưng",Mô tả
+"country_othe",Tên của mỗi quốc gia.
+"totalcases",Tổng số ca.
+"newcases",Số ca bổ sung mới.
+"totaldeaths",Tổng số người tử vong vì COVID-19.
+"newdeaths",Số ca tử vong mới.
+"totalrecovered",Tổng số bệnh nhân khỏi bệnh COVID-19.
+"newrecovered",Số ca mới bình phục.
+"activecases",Số ca đang điều triị.
+"serious_critical",Số ca nặng.
+"tot_cases_1m_pop",Tổng số trường hợp trên 1 triệu dân.
+"deaths_1m_pop",Số ca tử vong trên 1 triệu dân.
+"totaltests",Tổng số xét nghiệm COVID-19 được thực hiện.
+"tests_1m_pop",Xét nghiệm trên 1 triệu dân.
+"population",Dân số của đất nước.
+"continent",Lục địa của đất nước.
+"1_caseevery_x_ppl",Có x người sẽ xuât hiện 1 ca trên đất nước.
+"1_deathevery_x_ppl",Có x người sẽ xuất hiện 1 ca tử vong trên đất nước.
+"1_testevery_x_ppl",Có x người sẽ xuất hiện 1 ca test trên đất nước.
+"new_cases_1m_pop",Các ca mới trên 1 triệu dân.
+"new_deaths_1m_pop",Số ca tử vong mới trên 1 triệu dân.
+"active_cases_1m_pop",Các ca điều trị trên 1 triệu dân.
